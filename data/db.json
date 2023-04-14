@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "name": "Gabriel Manganti",
+      "mobile": "09459911281",
+      "email": "gabriel.manganti.10@gmail.com",
+      "address": "417 A Mabini Street Caloocan City",
+      "gender": "male",
+      "password": "U2FsdGVkX194ccaFVJRrYxPp8Tg01yjbgWSccwtYalw=",
+      "birthdate": "2023-04-01",
+      "id": 1
+    },
+    {
+      "name": "Gabriel Manganti",
+      "mobile": "09459911282",
+      "email": "gabriel.manganti.11@gmail.com",
+      "address": "417 A Mabini Street Caloocan City",
+      "gender": "male",
+      "password": "U2FsdGVkX1/iKw+SSZ92xMfCrxPnxrWDw3M6zR6CNHs=",
+      "birthdate": "2023-04-04",
+      "id": 2
+    },
+    {
+      "name": "lharens",
+      "mobile": "09287336173",
+      "email": "lharensindus@gmail.com",
+      "address": "blk34 lot 37",
+      "gender": "male",
+      "password": "U2FsdGVkX1/bf79OsGN8pe2qZZKhQjBkyrbETc8Jxqo=",
+      "birthdate": "2001-02-09",
+      "id": 3
+    },
+    {
+      "name": "babad",
+      "mobile": "12345678",
+      "email": "babad@gmail.com",
+      "address": "1st street",
+      "gender": "male",
+      "password": "U2FsdGVkX18Q8cNBjLwOtcND2XfQQjlrmgw+RQBQ63o=",
+      "birthdate": "2023-04-25",
+      "id": 4
+    }
+  ]
+}
